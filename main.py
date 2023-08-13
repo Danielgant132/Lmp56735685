@@ -18,10 +18,10 @@ if user_input is not None:
     # Add user's message to chat history
     st.session_state['chat_history'].append(('User', user_input))
     
-    os.environ["OPENAI_API_KEY"] = st.secrets("API_KEY")
+    os.environ["OPENAI_API_KEY"] = st.secrets["API_KEY"]
     documents = SimpleDirectoryReader('data').load_data()
     llm_predictor = LLMPredictor(
-    llm=ChatOpenAI(temperature=0, model_name="gpt-4"))
+    llm=ChatOpenAI(temperature=0, model_name="gpt-3.5"))
       
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor,
                                                    chunk_size=500)
