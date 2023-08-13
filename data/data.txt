@@ -1,0 +1,120 @@
+1. House / Apartment: Villa Mariposa
+   Address: 123 Main Street, Cityville, State, ZIP
+   Price: $500,000
+   Scale in square feet: 2,500 sqft
+   Age: 10 years
+
+2. House / Apartment: Cozy Cottage
+   Address: 456 Elm Avenue, Townsville, State, ZIP
+   Price: $250,000
+   Scale in square feet: 1,200 sqft
+   Age: 5 years
+
+3. House / Apartment: Modern Loft
+   Address: 789 Oak Street, Villageland, State, ZIP
+   Price: $800,000
+   Scale in square feet: 3,000 sqft
+   Age: 2 years
+
+4. House / Apartment: Lakeview Retreat
+   Address: 101 Pine Drive, Laketown, State, ZIP
+   Price: $700,000
+   Scale in square feet: 2,800 sqft
+   Age: 7 years
+
+5. House / Apartment: Riverside Mansion
+   Address: 555 Maple Lane, Rivertown, State, ZIP
+   Price: $1,200,000
+   Scale in square feet: 5,000 sqft
+   Age: 15 years
+
+6. House / Apartment: Coastal Bungalow
+   Address: 222 Beach Road, Seasidetown, State, ZIP
+   Price: $400,000
+   Scale in square feet: 1,800 sqft
+   Age: 12 years
+
+7. House / Apartment: Mountain View Retreat
+   Address: 789 Summit Avenue, Mountaintop, State, ZIP
+   Price: $900,000
+   Scale in square feet: 3,500 sqft
+   Age: 8 years
+
+8. House / Apartment: Urban Oasis
+   Address: 321 Downtown Street, Cityville, State, ZIP
+   Price: $600,000
+   Scale in square feet: 2,000 sqft
+   Age: 3 years
+
+9. House / Apartment: Colonial Charm
+   Address: 444 Heritage Lane, Historicaltown, State, ZIP
+   Price: $750,000
+   Scale in square feet: 2,600 sqft
+   Age: 20 years
+
+10. House / Apartment: Lakeside Cabin
+    Address: 777 Pine Drive, Waterside, State, ZIP
+    Price: $350,000
+    Scale in square feet: 1,500 sqft
+    Age: 25 years
+
+11. House / Apartment: Modern City Loft
+    Address: 999 Loft Avenue, Metropolis, State, ZIP
+    Price: $1,500,000
+    Scale in square feet: 4,000 sqft
+    Age: 5 years
+
+12. House / Apartment: Quaint Cottage
+    Address: 888 Elm Lane, Countrysidetown, State, ZIP
+    Price: $300,000
+    Scale in square feet: 1,000 sqft
+    Age: 50 years
+
+13. House / Apartment: Hillside Retreat
+    Address: 777 Oak Road, Hilltop, State, ZIP
+    Price: $950,000
+    Scale in square feet: 3,200 sqft
+    Age: 15 years
+
+14. House / Apartment: Beachfront Villa
+    Address: 333 Shoreline Drive, Beachtown, State, ZIP
+    Price: $1,800,000
+    Scale in square feet: 4,500 sqft
+    Age: 7 years
+
+15. House / Apartment: Suburban Family Home
+    Address: 222 Meadow Lane, Suburbia, State, ZIP
+    Price: $550,000
+    Scale in square feet: 2,200 sqft
+    Age: 10 years
+
+16. House / Apartment: Rustic Farmhouse
+    Address: 444 Country Road, Farmland, State, ZIP
+    Price: $400,000
+    Scale in square feet: 2,000 sqft
+    Age: 100 years
+
+17. House / Apartment: Lakeview Estate
+    Address: 888 Maple Avenue, Laketown, State, ZIP
+    Price: $2,000,000
+    Scale in square feet: 6,000 sqft
+    Age: 30 years
+
+18. House / Apartment: City Center Penthouse
+    Address: 555 Skyscraper Street, Downtown, State, ZIP
+    Price: $1,200,000
+    Scale in square feet: 3,500 sqft
+    Age: 5 years
+
+19. House / Apartment: Charming Victorian
+    Address: 222 Rose Lane, Historicdistrict, State, ZIP
+    Price: $650,000
+    Scale in square feet: 2,400 sqft
+    Age: 80 years
+
+20. House / Apartment: Lakeside Retreat
+    Address: 999 Lakeview Road, Tranquility, State, ZIP
+    Price: $550,000
+    Scale in square feet: 2,300 sqft
+    Age: 6 years
+
